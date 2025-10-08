@@ -28,7 +28,6 @@ We're building something special, and we'd love for you to be part of it!
 
 - **🌍 [Our Website](https://utopian-contributors.github.io/)** - Learn more about our vision
 - **🐦 [X/Twitter Community](https://x.com/utopiancontrib)** - Follow us for updates and discussions
-- **📋 [Our Projects](https://github.com/orgs/Utopian-Contributors/projects)** - See what we're working on
 - **💻 [Repositories](https://github.com/Utopian-Contributors)** - Explore our open-source code
 
 ## 🤝 Contributing
