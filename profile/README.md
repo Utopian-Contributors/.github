@@ -4,7 +4,7 @@
 
 ## 🚀 Our Mission
 
-We're building a **web development tool & browser extension** designed to revolutionize how the web works. Our goal is to make page loads more efficient with locally served design systems and frameworks. This could save data, money, and the environment.
+We're building a **web development tool & browser** designed to revolutionize how the web works. Our goal is to make page loads more efficient with locally served design systems and frameworks. This could save data, money, and the environment.
 
 ### The Impact
 
@@ -14,10 +14,10 @@ Every second, millions of web pages load across the globe. Each one consumes dat
 
 ## 🎯 What We're Building
 
-Our web development tool and browser extension features:
+Our web development tool and browser features:
 
 - **⚡ Efficient Page Loading**: Dramatically reduce load times and bandwidth consumption
-- **🎨 Built-in Design Systems**: Streamlined, consistent UI components stored inside the extension
+- **🎨 Built-in Design Systems**: Streamlined, consistent UI components stored inside the browser
 - **💰 Cost Savings**: Lower data usage means reduced costs for users and businesses
 - **🌿 Environmental Sustainability**: Less data transfer = lower energy consumption and carbon footprint
 - **🔧 Developer Experience**: Modern tools that make building for the web faster and more sustainable
@@ -26,7 +26,7 @@ Our web development tool and browser extension features:
 
 We're building something special, and we'd love for you to be part of it!
 
-- **🌍 [Our Website](https://utopian-contributors.github.io/)** - Learn more about our vision
+- **🌍 [Our Website](https://utopiancontrib.com/)** - Learn more about our vision
 - **🐦 [X/Twitter Community](https://x.com/utopiancontrib)** - Follow us for updates and discussions
 - **💻 [Repositories](https://github.com/Utopian-Contributors)** - Explore our open-source code
 
