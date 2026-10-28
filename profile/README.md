@@ -1,37 +1,55 @@
-# Utopian Contributors 🌍
+<div align="center">
 
-> Building the future of web development - one efficient page load at a time
+# Utopian Contributors
 
-## 🚀 Our Mission
+**Interfaces for humans. Not for AI.**
 
-We're building a **web development tool & browser** designed to revolutionize how the web works. Our goal is to make page loads more efficient with locally served design systems and frameworks. This could save data, money, and the environment.
+Onboarding the next billion users to crypto through ultra-efficient apps and tooling.
 
-### The Impact
+</div>
 
-Every second, millions of web pages load across the globe. Each one consumes data, energy, and resources. By optimizing these loads, we're not just improving user experience - we're making a real environmental impact.
+---
 
-**Multiply efficiency gains by millions of page loads every day = massive positive change for our planet! 🌱**
+## Mission
 
-## 🎯 What We're Building
+The web is being rebuilt for machines: bloated pages, endless trackers, and interfaces tuned for crawlers and agents instead of people.
 
-Our web development tool and browser features:
+We're going the other way.
 
-- **⚡ Efficient Page Loading**: Dramatically reduce load times and bandwidth consumption
-- **🎨 Built-in Design Systems**: Streamlined, consistent UI components stored inside the browser
-- **💰 Cost Savings**: Lower data usage means reduced costs for users and businesses
-- **🌿 Environmental Sustainability**: Less data transfer = lower energy consumption and carbon footprint
-- **🔧 Developer Experience**: Modern tools that make building for the web faster and more sustainable
+We build **interfaces for humans**: fast, lightweight, and respectful of the person on the other side of the screen. Crypto should feel as simple as sending a message, and as fast as loading a static page. If it takes a manual, a browser extension, and three confirmations, it isn't ready for the next billion users.
 
-## 🌐 Join Our Community
+## Principles
 
-We're building something special, and we'd love for you to be part of it!
+- **Humans first.** Every interface is designed for a person, not a crawler, an agent, or a funnel.
+- **Ultra-efficient by default.** Small bundles, fast loads, low bandwidth. Our apps should work well on a cheap phone and a weak connection.
+- **Client-side.** No server-side rendering. Apps run in the user's browser, close to the user's keys.
+- **Verifiable.** Content and code that can be checked, not just trusted.
+- **Non-custodial.** Your keys, your assets, your data.
+- **Open.** Built in public, for contributors.
 
-- **🌍 [Our Website](https://utopiancontrib.com/)** - Learn more about our vision
-- **🐦 [X/Twitter Community](https://x.com/utopiancontrib)** - Follow us for updates and discussions
-- **💻 [Repositories](https://github.com/Utopian-Contributors)** - Explore our open-source code
+## What we're building
 
-## 🤝 Contributing
+| Project | What it is |
+| --- | --- |
+| **[UtopianGo](https://utopiango.com)** | A social app with built-in wallets, web search, and $UTCC tipping. |
+| **$UTCC** | The Utopian Contributors token on Solana, powering tipping on UtopianGo. |
 
-We believe in the power of open source and collaborative development. Whether you're a developer, designer, writer, or just passionate about making the web better, there's a place for you here.
+## Contributing
 
-Check out our repositories and join the conversation. Together, we can build a more efficient, sustainable web for everyone.
+We're a small team building for a very large audience, and contributions are welcome.
+
+1. Browse the repositories and open issues.
+2. Pick something that interests you, or propose an idea in an issue.
+3. Open a pull request. Keep it small, fast, and human.
+
+Performance regressions are bugs. Unnecessary dependencies are bugs. Interfaces that confuse people are bugs.
+
+## About
+
+Utopian Contributors LLC is a Wyoming company.
+
+<div align="center">
+
+*Build for people. The machines will be fine.*
+
+</div>
